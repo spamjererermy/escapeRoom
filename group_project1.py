@@ -15,6 +15,10 @@ import roomEscaped
 # MAIN FUNCTION 
 # ----------------------------------------
 def main():
+    
+    # DISPLAY WELCOME
+    print ("You just woke up in a strange room. You need 
+           
     room1.main()
     room2.main()
     room3.main()
