@@ -3,4 +3,5 @@
 # ----------------------------------------
 
 def main():
-    print ("TEST")
+    print ("Congratulations, you were able to successfully escape the house!")
+    print("Thanks for playing!")
